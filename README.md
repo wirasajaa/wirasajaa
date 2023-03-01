@@ -1,9 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+Wira+Sanjaya....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there!+👋;I'm+Wira+Sanjaya;Nice+to+meet+you" alt="Typing SVG" /></a>
+</center>
 <br />
 
 I'm a self-taught passionate Backend developer from Indonesia
