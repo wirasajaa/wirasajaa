@@ -29,8 +29,8 @@ I'm a self-taught passionate Backend developer from Indonesia
 
 <br>
 
-[![Wira's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wira142&layout=compact&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![Wira's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wirasajaa&layout=compact&theme=buefy&hide_border=true)](https://git.io/streak-stats)
 
-[![Wira's Most Languages](https://github-readme-stats.vercel.app/api?username=wira142&show_icons=true)](https://git.io/streak-stats)
+[![Wira's Most Languages](https://github-readme-stats.vercel.app/api?username=wirasajaa&show_icons=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wira142)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wirasajaa)](https://git.io/streak-stats)
