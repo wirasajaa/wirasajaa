@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wirasajaa&theme=transparent&hide_border=true&locale=id&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wirasajaa&theme=transparent&hide_border=true&locale=eng&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ---
